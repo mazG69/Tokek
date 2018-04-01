@@ -2,7 +2,7 @@ const LineConnect = require('./connect');
 //const LINE = require('./main.js');
 console.info("\n\
 =========================================\n\
-BotName: LINE Vipro JS\n\
+BotName: LINE MazG69 JS\n\
 Version: JS VERSION\n\
 Thanks to @Alfathdirk @TCR_TEAM\n\
 =========================================\n\
