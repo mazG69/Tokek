@@ -4,14 +4,14 @@
   "description": "LINE",
   "main": "./src/main.js",
   "scripts": {
-    "start": "npm run vipro",
-    "vipro": "node ./src/vipro.js"
+    "start": "npm run MazG69",
+    "MazG69": "node ./src/MazG69.js"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/Gendjex/Token1.git"
   },
-  "author": "Vipro",
+  "author": "MazG69",
   "license": "MIT",
   "devDependencies": {
     "qrcode-terminal": "^0.11.0",
