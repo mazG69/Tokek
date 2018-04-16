@@ -33,7 +33,7 @@ Cara Install Bot Token Di C9/Server:
 - =================  [PROSES INSTALL]  =================
 - ==============================================
 - `sudo apt-get install nodejs`
-- `git clone https://github.com/Gendjex/Token1`
+- `git clone https://github.com/mazG69/Tokek`
 - `ls`
 - `cd Token1`
 - `npm i`
@@ -44,10 +44,6 @@ Cara Menjalankan Bot Kembali :
 ------
 - `cd Token1`
 - `npm start`
-
-Tutorial Video :
-------
-- `https://youtu.be/wdplUqUtX7Q`
 
 Thx To :
 ------
